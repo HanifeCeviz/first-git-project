@@ -1,3 +1,4 @@
 hello world
 This is my first git cooment...
 yeni code ekleme
+tek dosyadaki codleri tek basina gonderme
